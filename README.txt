@@ -5,11 +5,11 @@ Scan Wishlist
 3. go to https://rpcs3.net/compatibility and search for games
 4. copy and paste game IDs to wishlist.txt
 5. run rpcs3-scan-wishlist.py and see result.csv
-________________________________________________________________
+________________________________________________________________________
 
 Scan All
 
 1. install python and beatiful soup
 2. download rpcs3-scan-all.py
 3. run rpcs3-scan-all.py and see result.csv
-________________________________________________________________
+________________________________________________________________________
